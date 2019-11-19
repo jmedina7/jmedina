@@ -70,7 +70,7 @@
     			<button class = "button" name ="Learn More" onClick="redirect()"> 
     			<script type = "text/javascript">
     				function redirect() {
-    					var url = "http://csc174.org/midterm/jmedina/about.php";
+    					var url = "/jmedina/about.php";
     					window.location.assign(url);
     				}
     			</script>
